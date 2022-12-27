@@ -1,4 +1,4 @@
-baseURL = "tickzo.com"
+baseURL = "https://merry-sundae-3393ba.netlify.app/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
