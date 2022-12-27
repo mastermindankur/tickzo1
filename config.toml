@@ -96,12 +96,12 @@ title = "Tickzo Education Center "
 
   [[menu.footer]]
     name = "Enroll for 2023"
-    url = "/contact/"
+    url = "/student-enrollment/"
     weight = 2
 
   [[menu.footer]]
     name = "We are Hiring"
-    url = "/contact/"
+    url = "/we-are-hiring/"
     weight = 3
 
   [[menu.footer]]
