@@ -8,10 +8,11 @@ weight: 1
 
 We are seeking a dynamic and passionate instructor to join our coaching center team. The successful candidate will be responsible for providing high-quality academic instruction and support to students in classes 7 to 9.
 
+
 Positions | # of openings | Apply Here
 --- | --- | ---
-*Instructors* | `2` | *Appply Now* (https://forms.gle/7ULRXPeTRkPnou968)
-*Admin and Operations*| 1 | *Apply Now*
+*Instructors* | `8` |<a href="https://forms.gle/7ULRXPeTRkPnou968" target="_blank">**Apply Now**</a>
+*Admin and Operations*| 2 | *Coming Soon*
 
 # Key Responsibilities for the Instructors:
 1. Provide one-on-one and small group tutoring to students in grades 7 to 9 in a variety of subjects, including math, science, English, social studies, etc.
