@@ -4,6 +4,9 @@ theme = "hugo-serif-theme"
 languageCode = "en-us"
 title = "Tickzo Education Center "
 
+[markup.goldmark.renderer]
+ unsafe = true
+
 [module]
   [module.hugoVersion]
     extended = true
@@ -44,10 +47,10 @@ title = "Tickzo Education Center "
     meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
 
   [params.services]
-    summary_truncate = 120 # How many characters to include in the summary of the services before truncating
+    summary_truncate = 150 # How many characters to include in the summary of the services before truncating
 
   [params.team]
-    summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
+    summary_large_truncate = 150 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
     copyright_text = 'Made with love in India'
@@ -55,7 +58,7 @@ title = "Tickzo Education Center "
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
+    name = "Our Progams"
     url = "/services/"
     weight = 1
 
@@ -70,10 +73,21 @@ title = "Tickzo Education Center "
     weight = 3
 
   [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
+    name = "Enroll for 2023"
+    url = "/student-enrollment/"
     weight = 4
 
+  [[menu.main]]
+    name = "We are Hiring"
+    url = "/we-are-hiring/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 6
+
+   
   # Footer Menu
   [[menu.footer]]
     name = "Home"
@@ -81,6 +95,16 @@ title = "Tickzo Education Center "
     weight = 1
 
   [[menu.footer]]
-    name = "Contact"
+    name = "Enroll for 2023"
     url = "/contact/"
     weight = 2
+
+  [[menu.footer]]
+    name = "We are Hiring"
+    url = "/contact/"
+    weight = 3
+
+  [[menu.footer]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
