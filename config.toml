@@ -108,3 +108,13 @@ title = "Tickzo Education Center "
     name = "Contact"
     url = "/contact/"
     weight = 4
+
+  [[menu.footer]]
+    name = "Service Agreement"
+    url = "/service-agreement/"
+    weight = 4
+
+  [[menu.footer]]
+    name = "Privacy Policy"
+    url = "/privacy-policy/"
+    weight = 4
