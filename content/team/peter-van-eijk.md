@@ -1,9 +1,9 @@
 ---
-title: "Piu"
+title: "SK Khera"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Founder"
+image: "images/team/sk-khera.png"
+jobtitle: "Director"
 linkedinurl: "https://www.linkedin.com/"
 promoted: true
 weight: 1
