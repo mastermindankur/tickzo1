@@ -19,7 +19,7 @@ git push origin1 main
 https://app.netlify.com/teams/mastermindankur/overview
 
 
-## Theme Link
+## Hugo Theme Link which has been used
 https://github.com/zerostaticthemes/hugo-serif-theme
 
 
