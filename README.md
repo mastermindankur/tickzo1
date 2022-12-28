@@ -6,10 +6,12 @@ hugo server
 
 
 ## Commands to push content to the server
-Stop the server by pressing Command + C on your Mac (Server needs to be stopped and then restarted for public folder to be ReGenerated)
+Stop the server by pressing Command + C on your Mac (Server needs to be stopped and then restarted for public folder to be regenerated)
 
 git add .
+
 git commit -m "comment"
+
 git push origin1 main
 
 
