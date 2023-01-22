@@ -27,7 +27,7 @@ The course also covers basics of fundamental and technical analysis, two of the 
 6) People who want to learn the most important concepts that are needed to become successful in trading
 
 # Duration of the Course:
-The course will be conducted over a period of 4-5 weeks, with a total of 10-11 classes held on a regular schedule. Classes will be scheduled for a convenient time for all students, to ensure maximum participation and learning. The duration of each class will be 1 hour, providing ample time for instruction, practice, and questions.
+The course will be conducted over a period of 5 weeks, with a total of 10 classes held on a regular schedule. Classes will be scheduled for a convenient time for all students, to ensure maximum participation and learning. The duration of each class will be 1 hour, providing ample time for instruction, practice, and questions.
 
 # Fees:
 ### ~~12,999~~ INR (Original price) 
