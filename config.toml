@@ -87,6 +87,11 @@ title = "Tickzo Education Center "
     url = "/contact/"
     weight = 6
 
+  [[menu.main]]
+    name = "Stock Markets Course"
+    url = "/basics-of-stock-market/"
+    weight = 7
+
    
   # Footer Menu
   [[menu.footer]]
