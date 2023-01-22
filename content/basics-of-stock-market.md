@@ -9,6 +9,9 @@ weight: 1
 
 ![Basics of Stock Market](../images/illustrations/basics-of-stock-market.jpg)
 
+# Registration Link
+>[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
+
 # Description
 This course is designed to provide a comprehensive introduction to the stock market for beginners. It covers a wide range of topics that will equip students with the knowledge and skills needed to confidently make their first trade in the stock market. The course starts with a basic understanding of the financial market, stock market, primary and secondary market and the reasons why one should trade or invest in the stock market.
 Throughout the course, students will learn about common myths surrounding the stock market, and how to avoid the typical mistakes made by new traders. Students will also learn about the risks associated with stock market trading and strategies for mitigating those risks. 
@@ -23,6 +26,24 @@ The course also covers basics of fundamental and technical analysis, two of the 
 5) Traders who are starting out and Intermediary level Traders who are not yet consistently profitable
 6) People who want to learn the most important concepts that are needed to become successful in trading
 
+# Duration of the Course:
+The course will be conducted over a period of 4-5 weeks, with a total of 10-11 classes held on a regular schedule. Classes will be scheduled for a convenient time for all students, to ensure maximum participation and learning. The duration of each class will be 1 hour, providing ample time for instruction, practice, and questions.
+
+# Fees:
+### ~~12,999~~ INR (Original price) 
+### **9,999 INR** after Early Bird Discount of 3,000 INR, for the first 8 confirmed registrations.
+
+# Class Timings:
+Classes will be scheduled for a convenient time for all students, to ensure maximum participation and learning. The duration of each class will be 1 hour, providing ample time for instruction, practice, and questions. 
+
+# Class Location:
+Nanakramguda
+Financial District
+Hyderabad, Telangana 500032
+https://goo.gl/maps/3axoeniVrnfSR1Mf8
+
+# Registration Link
+>[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
 
 # What will you Learn?
  The course is divided into multiple modules.
@@ -83,23 +104,7 @@ The course also covers basics of fundamental and technical analysis, two of the 
 4) Understanding the role of Depository participant (DP) in the Indian context
 
 
-# Duration of the Course:
-The course will be conducted over a period of 4-5 weeks, with a total of 10-11 classes held on a regular schedule. Classes will be scheduled for a convenient time for all students, to ensure maximum participation and learning. The duration of each class will be 1 hour, providing ample time for instruction, practice, and questions.
-
-# Fees:
-### ~~12,999~~ INR (Original price) 
-### **9,999 INR** after Early Bird Discount of 3,000 INR, for the first 8 confirmed registrations.
-
-# Class Timings:
-Classes will be scheduled for a convenient time for all students, to ensure maximum participation and learning. The duration of each class will be 1 hour, providing ample time for instruction, practice, and questions. 
-
-# Class Location:
-Nanakramguda
-Financial District
-Hyderabad, Telangana 500032
-https://goo.gl/maps/3axoeniVrnfSR1Mf8
-
-# Queries and Payment Link
+# Registration Link
 >[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
 
 # Disclaimer
