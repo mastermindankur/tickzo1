@@ -14,8 +14,11 @@ weight: 1
 
 # Description
 This course is designed to provide a comprehensive introduction to the stock market for beginners. It covers a wide range of topics that will equip students with the knowledge and skills needed to confidently make their first trade in the stock market. The course starts with a basic understanding of the financial market, stock market, primary and secondary market and the reasons why one should trade or invest in the stock market.
+
 Throughout the course, students will learn about common myths surrounding the stock market, and how to avoid the typical mistakes made by new traders. Students will also learn about the risks associated with stock market trading and strategies for mitigating those risks. 
+
 The course covers a variety of important terminologies, such as stock exchanges, indices, types of shares, demat and trading accounts, corporate actions, and more. Students will also learn about the different players involved in the trading process and their roles.
+
 The course also covers basics of fundamental and technical analysis, two of the most common methods for analyzing stocks and assets in the market. Lastly, the course provides students with a list of recommended books, websites, trading blogs, and other resources for further learning and advancement in the field. By the end of the course, students will have a solid understanding of the stock market and the tools and strategies needed to make informed investment decisions.
 
 # Who should join this course?
