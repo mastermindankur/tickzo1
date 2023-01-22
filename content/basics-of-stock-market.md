@@ -7,6 +7,8 @@ weight: 1
 ---
 # Basics of Stock Market by Tickzo Education Center
 
+![Basics of Stock Market](../images/illustrations/basics-of-stock-market.jpg)
+
 # Description
 This course is designed to provide a comprehensive introduction to the stock market for beginners. It covers a wide range of topics that will equip students with the knowledge and skills needed to confidently make their first trade in the stock market. The course starts with a basic understanding of the financial market, stock market, primary and secondary market and the reasons why one should trade or invest in the stock market.
 Throughout the course, students will learn about common myths surrounding the stock market, and how to avoid the typical mistakes made by new traders. Students will also learn about the risks associated with stock market trading and strategies for mitigating those risks. 
