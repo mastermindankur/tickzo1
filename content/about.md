@@ -3,8 +3,7 @@ title: 'About Tickzo Education Center'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-TEC is Hyderabad’s coaching company which enables personalized and group learning. TEC delivers quality education with cutting edge technology which brings Hyderabad’s top Teachers and students together in a physical and digital classroom. Our coaching center offers personalized tutoring in a variety of subjects, including math, science, English. Our experienced and dedicated instructors are committed to helping students achieve their full potential and succeed in their studies. We offer flexible scheduling to accommodate busy schedules, and our small class sizes ensure that each student receives the individual attention they need. Our state-of-the-art facilities and modern teaching methods make learning an enjoyable and rewarding experience. We are confident that our coaching center can help students achieve their academic goals and reach their full potential. _
-dabant deus. 
+TEC is Hyderabad’s coaching company which enables personalized and group learning. TEC delivers quality education with cutting edge technology which brings Hyderabad’s top Teachers and students together in a physical and digital classroom. Our coaching center offers personalized tutoring in a variety of subjects, including math, science, English. Our experienced and dedicated instructors are committed to helping students achieve their full potential and succeed in their studies. We offer flexible scheduling to accommodate busy schedules, and our small class sizes ensure that each student receives the individual attention they need. Our state-of-the-art facilities and modern teaching methods make learning an enjoyable and rewarding experience. We are confident that our coaching center can help students achieve their academic goals and reach their full potential.
 
 ## Unique Benefits
 

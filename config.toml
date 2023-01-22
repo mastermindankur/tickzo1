@@ -62,35 +62,31 @@ title = "Tickzo Education Center "
     url = "/services/"
     weight = 1
 
-  [[menu.main]]
-    name = "Team"
-    url = "/team/"
-    weight = 2
 
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 2
 
   [[menu.main]]
     name = "Enroll for 2023"
     url = "/student-enrollment/"
-    weight = 4
+    weight = 3
 
   [[menu.main]]
     name = "We are Hiring"
     url = "/we-are-hiring/"
-    weight = 5
+    weight = 4
 
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 6
+    weight = 5
 
   [[menu.main]]
     name = "Stock Markets Course"
     url = "/basics-of-stock-market/"
-    weight = 7
+    weight = 6
 
    
   # Footer Menu
