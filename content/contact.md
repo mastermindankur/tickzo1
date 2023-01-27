@@ -18,3 +18,6 @@ Work Timings, We are open all 6 days a week.
 | Friday    | 3:00pm - 9:00pm |
 | Saturday  | 3:00pm - 9:00pm |
 | Sunday    | Closed          |
+
+![Whatsapp](../../images/social/whatsapp-small.svg) [8919321064](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
+
