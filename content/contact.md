@@ -3,6 +3,9 @@ title: 'Contact Us'
 date: 2018-02-22T17:01:34+07:00
 layout: contact
 ---
+![Whatsapp](../../images/social/whatsapp-small.svg) [8919321064](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
+
+
 
 Work Timings, We are open all 6 days a week.
 

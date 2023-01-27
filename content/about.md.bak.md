@@ -7,7 +7,7 @@ TEC is Hyderabad’s coaching company which enables personalized and group learn
 
 ## Unique Benefits
 
-- Personalized instructions: At our coaching center, students receive individualized attention from experienced instructors who are dedicated to helping them achieve their academic goals.
+- Personalized instruction: At our coaching center, students receive individualized attention from experienced instructors who are dedicated to helping them achieve their academic goals.
 
 - Expert instructors: Our team of experienced teachers and subject matter experts is committed to providing high-quality instruction to students of all levels.
 
