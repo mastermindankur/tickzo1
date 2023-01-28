@@ -112,10 +112,3 @@ https://goo.gl/maps/3axoeniVrnfSR1Mf8
 
 # Disclaimer
 Please keep in mind that this is just a sample curriculum, and the actual content and duration of the course may vary. Additionally, investing in the stock market carries risk and past performance is not indicative of future results. It's always a good idea to consult a financial advisor before making any investment decisions.
-
-
-
-
-
-
-
