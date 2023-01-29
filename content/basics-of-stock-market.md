@@ -33,8 +33,8 @@ The course also covers basics of fundamental and technical analysis, two of the 
 The course will be conducted over a period of 5 weeks, with a total of 10 classes held on a regular schedule. Classes will be scheduled for a convenient time for all students, to ensure maximum participation and learning. The duration of each class will be 1 hour, providing ample time for instruction, practice, and questions.
 
 # Fees:
-### ~~12,999~~ INR (Original price) 
-### **9,999 INR** after Early Bird Discount of 3,000 INR, for the first 8 confirmed registrations.
+### ~~12,999 INR~~ **9,999 INR** 
+Only valid till Feb 14,2023!
 
 # Class Timings:
 Classes will be scheduled for a convenient time for all students, to ensure maximum participation and learning. The duration of each class will be 1 hour, providing ample time for instruction, practice, and questions. 
