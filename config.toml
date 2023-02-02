@@ -88,6 +88,11 @@ title = "Tickzo Education Center "
     url = "/basics-of-stock-market/"
     weight = 6
 
+  [[menu.main]]
+    name = "Predictive Astrology"
+    url = "/basics-of-predictive-astrology/"
+    weight = 7
+
    
   # Footer Menu
   [[menu.footer]]
