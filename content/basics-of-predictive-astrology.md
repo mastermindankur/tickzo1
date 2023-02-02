@@ -7,7 +7,7 @@ weight: 1
 ---
 # Basics of Predictive Astrology by Tickzo Education Center
 
-![Basics of Predictive Astrology](../images/illustrations/basics-of-predictive-astrology.png)
+![Basics of Predictive Astrology](../images/illustrations/basics-of-predictive-astrology.jpg)
 
 # Registration Link
 >[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20Predictive%20Astrology)
