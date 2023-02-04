@@ -1,27 +1,45 @@
 ---
-title: "Coaching Class VII"
+title: "CUET Exam Preparation"
 date: 2018-11-28T15:14:54+10:00
 featured: true
 draft: false
 weight: 5
 ---
+# Registration Link
+>[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%CUET%20Exam%20Preparation)
 
-Coaching for Class X Mathematics and Science subjects typically involves working with students in small groups or individually to help them improve their understanding and performance in these subjects. The teacher will review and explain key concepts, provide additional practice problems and exercises, and offer guidance and strategies for studying and test-taking. The teacher will also identify areas where the student needs additional support and work on building their confidence and skills in those areas.
+# Description
+The National Testing Agency (NTA) has been assigned the task of conducting the Central University Entrance Test (CUET) for Post Graduate (PG) programmes for 2022. Central University Entrance Test (CUET), for admission to different programmes of the participating Central Universities, will provide a single window opportunity to the students to seek admission in these participating Universities / Institute(s) across the country.
 
-![Whatsapp](../../images/social/whatsapp-small.svg) [8919321064](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
+# Who should join this course?
+Individuals who are planning to take the Common University Entrance Test (CUET) for admission to undergraduate engineering courses in various universities in India can benefit from joining a CUET exam preparation course. This includes:
+1) High school students or recent graduates who are interested in pursuing a degree in engineering
+2) Working professionals who are looking to switch careers or upgrade their education
+3) Those who have previously taken the CUET exam and did not perform to their expectations and wish to improve their scores
+
+A CUET exam preparation course can provide the candidate with comprehensive training, practice opportunities, and guidance from experienced professionals, all of which can increase their chances of success on the exam. Joining a preparation course can also help the candidate build confidence, develop test-taking strategies, and stay focused and motivated throughout the preparation process.
+
+# Duration of the Course:
+The course will be conducted over a period of 10 weeks, with a total of 20 classes held on a regular schedule. Classes will be scheduled for a convenient time for all students, to ensure maximum participation and learning. The duration of each class will be 1 hour, providing ample time for instruction, practice, and questions.
+
+# Fees:
+### ~~19,999 INR~~ **14,999 INR** 
+Only valid till Feb 14,2023!
+
+# Class Timings:
+Classes will be scheduled for a convenient time for all students, to ensure maximum participation and learning. The duration of each class will be 1 hour, providing ample time for instruction, practice, and questions. 
+
+# Class Location:
+Nanakramguda
+Financial District
+Hyderabad, Telangana 500032
+https://goo.gl/maps/3axoeniVrnfSR1Mf8
+
+Online and Hybrid Mode
+
+# Registration Link
+>[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20CUET%20Exam%20Preparation)
 
 
-Additionally, coaching for Class VII Mathematics and Science subjects will include:
-
-1) Reviewing and practicing key concepts and formulas
-2) Identifying areas where the student needs additional support
-3) Providing additional practice problems and exercises
-4) Offering guidance and strategies for studying and test-taking
-5) Helping the student to develop problem-solving skills
-6) Preparing students for exams
-7) Providing feedback and support to help student to improve.
-
-Coaching will take place in person, and the teacher may use a variety of teaching methods and materials to help the student learn and understand the subjects. The teacher may also work closely with the student's parents to ensure that their instruction is aligned with the curriculum and that the student is making progress towards their goals.
-
-
-
+# Disclaimer
+The goal of CUET exam preparation is to equip the candidate with the necessary knowledge and skills to perform well on the exam and increase their chances of securing admission to a top university.

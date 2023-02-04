@@ -1,17 +1,17 @@
 ---
-title: "Coaching Class IX"
+title: "Coaching Class X to VI"
 date: 2018-11-28T15:15:26+10:00
 featured: true
 draft: false
 weight: 3
 ---
 
-Coaching for Class IX Mathematics and Science subjects typically involves working with students in small groups or individually to help them improve their understanding and performance in these subjects. The teacher will review and explain key concepts, provide additional practice problems and exercises, and offer guidance and strategies for studying and test-taking. The teacher will also identify areas where the student needs additional support and work on building their confidence and skills in those areas.
+Coaching for Class X to VI, Mathematics and Science subjects typically involves working with students in small groups or individually to help them improve their understanding and performance in these subjects. The teacher will review and explain key concepts, provide additional practice problems and exercises, and offer guidance and strategies for studying and test-taking. The teacher will also identify areas where the student needs additional support and work on building their confidence and skills in those areas.
 
 ![Whatsapp](../../images/social/whatsapp-small.svg) [8919321064](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
 
 
-Additionally, coaching for Class IX mathematics and science subjects will include:
+Additionally, coaching for mathematics and science subjects will include:
 
 1) Reviewing and practicing key concepts and formulas
 2) Identifying areas where the student needs additional support
