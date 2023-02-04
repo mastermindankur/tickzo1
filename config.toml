@@ -55,6 +55,9 @@ title = "Tickzo Education Center "
   [params.footer]
     copyright_text = 'Made with love in India'
 
+  [params.basics-of-predictive-astrology]
+    meta_og_image = "https://tickzo.com/images/illustrations/basics-of-predictive-astrology.jpg"
+
 [menu]
   # Main Menu
   [[menu.main]]
