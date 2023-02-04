@@ -53,7 +53,7 @@ Online on Google Meets
 >[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20Predictive%20Astrology)
 
 # Registration Link
->[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
+>[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20Predictive%20Astrology)
 
 ## Disclaimer
 It’s important to note that this course is provided for educational purposes only and does not endorse or support the accuracy or reliability of astrological predictions. Additionally, individuals who are seeking scientific or empirical evidence-based approaches to prediction or who have an evidence-based skepticism about astrology may not find this course beneficial.

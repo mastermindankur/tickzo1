@@ -8,12 +8,12 @@ weight: 1
 
 Stock Investing for Dummies: A No-Jargon Approach. Are you interested in learning about the stock market but feel overwhelmed by the jargon and complexity? Look no further! Our event "Stock Market 101: Simplifying the Complex for the Everyday Investor" is designed to teach you the basics of the stock market in easy, simple terms.
 
-![Whatsapp](../../images/social/whatsapp-small.svg) [8919321064](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
+![Whatsapp](../../images/social/whatsapp-small.svg) [8919321064](https://wa.me/918919321064?text=Hi%20I%20am%20interested%20in%20Basics%20of%20Stock%20Market)
 
 ![Basics of Stock Market](../../images/illustrations/basics-of-stock-market.jpg)
 
 # Registration Link
->[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
+>[Click Here to Reserve your spot](https://wa.me/918919321064?text=Hi%20I%20am%20interested%20in%20Basics%20of%20Stock%20Market)
 
 # Description
 This course is designed to provide a comprehensive introduction to the stock market for beginners. It covers a wide range of topics that will equip students with the knowledge and skills needed to confidently make their first trade in the stock market. The course starts with a basic understanding of the financial market, stock market, primary and secondary market and the reasons why one should trade or invest in the stock market.
@@ -49,7 +49,7 @@ Hyderabad, Telangana 500032
 https://goo.gl/maps/3axoeniVrnfSR1Mf8
 
 # Registration Link
->[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
+>[Click Here to Reserve your spot](https://wa.me/918919321064?text=Hi%20I%20am%20interested%20in%20Basics%20of%20Stock%20Market)
 
 # What will you Learn?
  The course is divided into multiple modules.
@@ -111,7 +111,7 @@ https://goo.gl/maps/3axoeniVrnfSR1Mf8
 
 
 # Registration Link
->[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
+>[Click Here to Reserve your spot](https://wa.me/918919321064?text=Hi%20I%20am%20interested%20in%20Basics%20of%20Stock%20Market)
 
 # Disclaimer
 Please keep in mind that this is just a sample curriculum, and the actual content and duration of the course may vary. Additionally, investing in the stock market carries risk and past performance is not indicative of future results. It's always a good idea to consult a financial advisor before making any investment decisions.

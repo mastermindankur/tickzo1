@@ -8,7 +8,7 @@ weight: 3
 
 Coaching for Class X to VI, Mathematics and Science subjects typically involves working with students in small groups or individually to help them improve their understanding and performance in these subjects. The teacher will review and explain key concepts, provide additional practice problems and exercises, and offer guidance and strategies for studying and test-taking. The teacher will also identify areas where the student needs additional support and work on building their confidence and skills in those areas.
 
-![Whatsapp](../../images/social/whatsapp-small.svg) [8919321064](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
+![Whatsapp](../../images/social/whatsapp-small.svg) [8919321064](https://wa.me/918919321064?text=Hi%20I%20am%20interested%20in%20School%20Coaching%20)
 
 
 Additionally, coaching for mathematics and science subjects will include:

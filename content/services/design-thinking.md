@@ -9,10 +9,11 @@ weight: 4
 # Design Thinking Course
 Discover a Creative and Innovative Approach to Problem-Solving!
 
-![Whatsapp](../../images/social/whatsapp-small.svg) [8919321064](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
+![Whatsapp](../../images/social/whatsapp-small.svg) [8919321064](https://wa.me/918919321064?text=Hi%20I%20am%20interested%20in%20Design%20Thinking)
 
 
 # Description
+
 Design thinking is a creative and innovative approach to problem-solving that has become increasingly popular in recent years. This course teaches participants the fundamentals of design thinking and provides them with the tools and techniques they need to apply this process to real-world challenges. The course covers the five stages of design thinking: empathy, definition, ideation, prototyping, and testing. Through hands-on activities, participants will learn how to develop empathy with their users and customers, define problems, generate ideas, create prototypes, and test their solutions. They will also learn how to apply design thinking to their work and personal life, making them more effective problem-solvers and innovators. Whether you are in product development, marketing, entrepreneurship, or another field, this course will benefit you by improving your creativity and problem-solving skills.
 
 # Who should join this course?
@@ -57,7 +58,7 @@ Hyderabad, Telangana 500032
 https://goo.gl/maps/3axoeniVrnfSR1Mf8
 
 # Registration Link
->[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
+>[Click Here to Reserve your spot](https://wa.me/918919321064?text=Hi%20I%20am%20interested%20in%20Design%20Thinking)
 
 ## Disclaimer
 This course is designed to provide information and training on the subject of Design Thinking. The information provided in this course is for educational purposes only and does not guarantee success in any particular project or endeavor. Participants are encouraged to use their own judgment and seek additional resources as needed. The organizers and instructors of this course assume no responsibility for the accuracy or completeness of the information provided and will not be liable for any errors, omissions, or damages arising from the use of this information. Participants should consult their own legal, financial, and professional advisors before making any decisions based on the information provided in this course.

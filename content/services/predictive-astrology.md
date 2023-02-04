@@ -6,7 +6,7 @@ draft: false
 weight: 2
 ---
 
-# Basics of Predictive Astrology by Tickzo Education Center
+# Predictive Astrology by Tickzo Education Center
 
 ![Basics of Predictive Astrology](../../images/illustrations/basics-of-predictive-astrology.jpg)
 
@@ -14,7 +14,7 @@ weight: 2
 >[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20Predictive%20Astrology)
 
 # Description
-“Unlock the Secrets of the Stars: A Crash  Course on Predictive Astrology”.
+“Unlock the Secrets of the Stars: A Comprehensive Course on Predictive Astrology”.
 
 Discover the ancient art of vedic astrology and learn how to use it for prediction in this 50-hour journey through the cosmos. From the basics of the zodiac, planets, houses, and aspects to advanced techniques such as transits,  this course covers everything you need to know about predictive astrology. Explore real-life case studies and gain an understanding of the ethical considerations involved in this fascinating field. 
 
@@ -54,7 +54,7 @@ Online on Google Meets
 >[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20Predictive%20Astrology)
 
 # Registration Link
->[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad)
+>[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20Predictive%20Astrology)
 
 ## Disclaimer
 It’s important to note that this course is provided for educational purposes only and does not endorse or support the accuracy or reliability of astrological predictions. Additionally, individuals who are seeking scientific or empirical evidence-based approaches to prediction or who have an evidence-based skepticism about astrology may not find this course beneficial.
