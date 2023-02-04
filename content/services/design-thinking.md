@@ -3,18 +3,15 @@ title: "Design Thinking"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
-weight: 4
+weight: 6
 ---
 
-# Design Thinking Course
 Discover a Creative and Innovative Approach to Problem-Solving!
+
+Design thinking is a creative and innovative approach to problem-solving that has become increasingly popular in recent years. This course teaches participants the fundamentals of design thinking and provides them with the tools and techniques they need to apply this process to real-world challenges. The course covers the five stages of design thinking: empathy, definition, ideation, prototyping, and testing. Through hands-on activities, participants will learn how to develop empathy with their users and customers, define problems, generate ideas, create prototypes, and test their solutions. They will also learn how to apply design thinking to their work and personal life, making them more effective problem-solvers and innovators. Whether you are in product development, marketing, entrepreneurship, or another field, this course will benefit you by improving your creativity and problem-solving skills.
 
 ![Whatsapp](../../images/social/whatsapp-small.svg) [8919321064](https://wa.me/918919321064?text=Hi%20I%20am%20interested%20in%20Design%20Thinking)
 
-
-# Description
-
-Design thinking is a creative and innovative approach to problem-solving that has become increasingly popular in recent years. This course teaches participants the fundamentals of design thinking and provides them with the tools and techniques they need to apply this process to real-world challenges. The course covers the five stages of design thinking: empathy, definition, ideation, prototyping, and testing. Through hands-on activities, participants will learn how to develop empathy with their users and customers, define problems, generate ideas, create prototypes, and test their solutions. They will also learn how to apply design thinking to their work and personal life, making them more effective problem-solvers and innovators. Whether you are in product development, marketing, entrepreneurship, or another field, this course will benefit you by improving your creativity and problem-solving skills.
 
 # Who should join this course?
 The Design Thinking course is suitable for a wide range of professionals and individuals, including but not limited to:

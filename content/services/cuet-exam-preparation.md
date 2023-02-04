@@ -3,13 +3,13 @@ title: "CUET Exam Preparation"
 date: 2018-11-28T15:14:54+10:00
 featured: true
 draft: false
-weight: 5
+weight: 6
 ---
+The National Testing Agency (NTA) has been assigned the task of conducting the Central University Entrance Test (CUET) for Post Graduate (PG) programmes for 2022. Central University Entrance Test (CUET), for admission to different programmes of the participating Central Universities, will provide a single window opportunity to the students to seek admission in these participating Universities / Institute(s) across the country.
+
 # Registration Link
 >[Click Here to Reserve your spot](https://wa.me/918919321064?text=I%20am%20interested%20in%20CUET%20Exam%20Preparation)
 
-# Description
-The National Testing Agency (NTA) has been assigned the task of conducting the Central University Entrance Test (CUET) for Post Graduate (PG) programmes for 2022. Central University Entrance Test (CUET), for admission to different programmes of the participating Central Universities, will provide a single window opportunity to the students to seek admission in these participating Universities / Institute(s) across the country.
 
 # Who should join this course?
 Individuals who are planning to take the Common University Entrance Test (CUET) for admission to undergraduate engineering courses in various universities in India can benefit from joining a CUET exam preparation course. This includes:
