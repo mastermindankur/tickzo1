@@ -11,10 +11,6 @@ This Application collects some Personal Data from its Users.
 
 This document can be printed for reference by using the print command in the settings of any browser.
 
-## Owner and Data Controller
-Tickzo Private Limited,
-RAJOURI GARDEN NEW DELHI West Delhi DL 110027 IN
-
 ## Owner contact email: tickzoeducation@gmail.com
 
 ## Types of Data collected
