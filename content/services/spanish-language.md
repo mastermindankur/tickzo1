@@ -8,8 +8,6 @@ weight: 6
 
 A course on the Spanish language will typically focus on helping students develop their listening, speaking, reading, and writing skills in Spanish. The course will cover a wide range of topics, including grammar, vocabulary, verb conjugation, sentence structure, and idiomatic expressions.
 
-![Whatsapp](../../images/social/whatsapp-small.svg) [8919321064](https://wa.me/918919321064?text=Hi%20I%20am%20interested%20in%20Spanish%20Language%20)
-
 It will include:
 
 1) Introducing basic grammar concepts, such as verb conjugation and sentence structure.
