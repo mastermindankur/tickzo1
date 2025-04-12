@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team on Tickzo Education Center </title>
-    <link>http://localhost:53177/team/</link>
+    <link>http://localhost:53929/team/</link>
     <description>Recent content in Team on Tickzo Education Center </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Dec 2018 13:45:06 +1000</lastBuildDate>
-    <atom:link href="http://localhost:53177/team/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:53929/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SK Khera</title>
-      <link>http://localhost:53177/team/peter-van-eijk/</link>
+      <link>http://localhost:53929/team/peter-van-eijk/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      <guid>http://localhost:53177/team/peter-van-eijk/</guid>
+      <guid>http://localhost:53929/team/peter-van-eijk/</guid>
       <description>&lt;p&gt;As the head of our coaching centre, I am dedicated to helping students of all ages and abilities achieve their academic and personal goals. Our experienced and qualified instructors are passionate about teaching and provide personalized attention and support. Our state-of-the-art facilities and resources provide students with the tools they need to succeed. We offer flexible scheduling options and a range of courses and tutoring services to meet the needs of our students.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aishwarya Gupta Khera</title>
-      <link>http://localhost:53177/team/sage-kirk/</link>
+      <link>http://localhost:53929/team/sage-kirk/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      <guid>http://localhost:53177/team/sage-kirk/</guid>
+      <guid>http://localhost:53929/team/sage-kirk/</guid>
       <description>&lt;p&gt;I am dedicated to helping students of all ages and abilities achieve their academic and personal goals. Our experienced and qualified instructors are passionate about teaching and provide personalized attention and support. Our state-of-the-art facilities and resources provide students with the tools they need to succeed. We offer flexible scheduling options and a range of courses and tutoring services to meet the needs of our students.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pavan Kumar</title>
-      <link>http://localhost:53177/team/mike-vance/</link>
+      <link>http://localhost:53929/team/mike-vance/</link>
       <pubDate>Thu, 20 Dec 2018 13:44:30 +1000</pubDate>
-      <guid>http://localhost:53177/team/mike-vance/</guid>
+      <guid>http://localhost:53929/team/mike-vance/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pruthvi</title>
-      <link>http://localhost:53177/team/robert-johnson/</link>
+      <link>http://localhost:53929/team/robert-johnson/</link>
       <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
-      <guid>http://localhost:53177/team/robert-johnson/</guid>
+      <guid>http://localhost:53929/team/robert-johnson/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sai Harsha</title>
-      <link>http://localhost:53177/team/tamara-ells/</link>
+      <link>http://localhost:53929/team/tamara-ells/</link>
       <pubDate>Thu, 20 Dec 2018 13:44:55 +1000</pubDate>
-      <guid>http://localhost:53177/team/tamara-ells/</guid>
+      <guid>http://localhost:53929/team/tamara-ells/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swarna Thatepally</title>
-      <link>http://localhost:53177/team/susan-shelton/</link>
+      <link>http://localhost:53929/team/susan-shelton/</link>
       <pubDate>Thu, 20 Dec 2018 13:45:06 +1000</pubDate>
-      <guid>http://localhost:53177/team/susan-shelton/</guid>
+      <guid>http://localhost:53929/team/susan-shelton/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.&lt;/p&gt;</description>
     </item>
   </channel>

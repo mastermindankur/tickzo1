@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Tickzo Education Center </title>
-    <link>http://localhost:53177/services/</link>
+    <link>http://localhost:53929/services/</link>
     <description>Recent content in Services on Tickzo Education Center </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Apr 2025 12:00:00 +0530</lastBuildDate>
-    <atom:link href="http://localhost:53177/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:53929/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quantum Computing 101</title>
-      <link>http://localhost:53177/services/quantum-computing-101/</link>
+      <link>http://localhost:53929/services/quantum-computing-101/</link>
       <pubDate>Sat, 12 Apr 2025 12:00:00 +0530</pubDate>
-      <guid>http://localhost:53177/services/quantum-computing-101/</guid>
+      <guid>http://localhost:53929/services/quantum-computing-101/</guid>
       <description>&lt;p&gt;This beginner-friendly course is designed to introduce you to the fascinating world of quantum computing — a paradigm shift in computation that leverages the principles of quantum mechanics. You’ll gain a foundational understanding of how quantum computers work, the math behind them, and their real-world applications.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/illustrations/quantum-computing-101.jpg&#34; alt=&#34;Quantum Computing 101&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;registration-link&#34;&gt;Registration Link&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://wa.me/918919321064?text=Hi%20I%20am%20interested%20in%20Quantum%20Computing%20101&#34;&gt;Click Here to Reserve your spot&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;This beginner-friendly course is designed to introduce you to the fascinating world of quantum computing — a paradigm shift in computation that leverages the principles of quantum mechanics. You’ll gain a foundational understanding of how quantum computers work, the math behind them, and their real-world applications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Generative AI with LLMs</title>
-      <link>http://localhost:53177/services/generative-ai-llms/</link>
+      <link>http://localhost:53929/services/generative-ai-llms/</link>
       <pubDate>Sat, 12 Apr 2025 12:00:00 +0530</pubDate>
-      <guid>http://localhost:53177/services/generative-ai-llms/</guid>
+      <guid>http://localhost:53929/services/generative-ai-llms/</guid>
       <description>&lt;p&gt;This hands-on course explores the rapidly growing field of Generative AI using Large Language Models (LLMs). You&amp;rsquo;ll learn how these models work, how to fine-tune them, and how to build powerful AI applications using tools like OpenAI, Hugging Face, and LangChain.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/illustrations/generative-ai-llms.jpg&#34; alt=&#34;Generative AI with LLMs&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;registration-link&#34;&gt;Registration Link&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://wa.me/918919321064?text=Hi%20I%20am%20interested%20in%20Generative%20AI%20with%20LLMs&#34;&gt;Click Here to Reserve your spot&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;This hands-on course explores the rapidly growing field of Generative AI using Large Language Models (LLMs). You&amp;rsquo;ll learn how these models work, how to fine-tune them, and how to build powerful AI applications using tools like OpenAI, Hugging Face, and LangChain.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Design Thinking</title>
-      <link>http://localhost:53177/services/design-thinking/</link>
+      <link>http://localhost:53929/services/design-thinking/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
-      <guid>http://localhost:53177/services/design-thinking/</guid>
+      <guid>http://localhost:53929/services/design-thinking/</guid>
       <description>&lt;p&gt;Discover a Creative and Innovative Approach to Problem-Solving!&lt;/p&gt;&#xA;&lt;p&gt;Design thinking is a creative and innovative approach to problem-solving that has become increasingly popular in recent years. This course teaches participants the fundamentals of design thinking and provides them with the tools and techniques they need to apply this process to real-world challenges. The course covers the five stages of design thinking: empathy, definition, ideation, prototyping, and testing. Through hands-on activities, participants will learn how to develop empathy with their users and customers, define problems, generate ideas, create prototypes, and test their solutions. They will also learn how to apply design thinking to their work and personal life, making them more effective problem-solvers and innovators. Whether you are in product development, marketing, entrepreneurship, or another field, this course will benefit you by improving your creativity and problem-solving skills.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Predictive Astrology</title>
-      <link>http://localhost:53177/services/predictive-astrology/</link>
+      <link>http://localhost:53929/services/predictive-astrology/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      <guid>http://localhost:53177/services/predictive-astrology/</guid>
+      <guid>http://localhost:53929/services/predictive-astrology/</guid>
       <description>&lt;p&gt;“Unlock the Secrets of the Stars: A Comprehensive Course on Predictive Astrology”.&lt;/p&gt;&#xA;&lt;p&gt;Discover the ancient art of vedic astrology and learn how to use it for prediction in this 50-hour journey through the cosmos. From the basics of the zodiac, planets, houses, and aspects to advanced techniques such as transits,  this course covers everything you need to know about predictive astrology. Explore real-life case studies and gain an understanding of the ethical considerations involved in this fascinating field.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Basics of Stock Market</title>
-      <link>http://localhost:53177/services/basics-of-stock-market/</link>
+      <link>http://localhost:53929/services/basics-of-stock-market/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:53177/services/basics-of-stock-market/</guid>
+      <guid>http://localhost:53929/services/basics-of-stock-market/</guid>
       <description>&lt;p&gt;This course is designed to provide a comprehensive introduction to the stock market for beginners. It covers a wide range of topics that will equip students with the knowledge and skills needed to confidently make their first trade in the stock market. The course starts with a basic understanding of the financial market, stock market, primary and secondary market and the reasons why one should trade or invest in the stock market.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spanish Language</title>
-      <link>http://localhost:53177/services/spanish-language/</link>
+      <link>http://localhost:53929/services/spanish-language/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:53177/services/spanish-language/</guid>
+      <guid>http://localhost:53929/services/spanish-language/</guid>
       <description>&lt;p&gt;A course on the Spanish language will typically focus on helping students develop their listening, speaking, reading, and writing skills in Spanish. The course will cover a wide range of topics, including grammar, vocabulary, verb conjugation, sentence structure, and idiomatic expressions.&lt;/p&gt;&#xA;&lt;p&gt;It will include:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Introducing basic grammar concepts, such as verb conjugation and sentence structure.&lt;/li&gt;&#xA;&lt;li&gt;Building vocabulary through practice exercises and reading.&#xA;Developing listening and speaking skills through conversation practice and oral presentations.&lt;/li&gt;&#xA;&lt;li&gt;Improving reading comprehension through the study of texts and articles.&#xA;Enhancing writing skills by composing emails, essays, and other written materials in Spanish.&lt;/li&gt;&#xA;&lt;li&gt;Practice with Spanish culture and civilization.&lt;/li&gt;&#xA;&lt;li&gt;Preparing students for international exams, such as DELE.&lt;/li&gt;&#xA;&lt;li&gt;The course will be designed for students at different levels, from beginner to advanced, and will use a variety of teaching methods, such as lectures, group discussions, and interactive activities. It will also include opportunities for students to practice their language skills in real-life situations, such as through language exchanges or immersion trips.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;The course will be instructed by a native speaker or by a qualified teacher with fluency in Spanish, and the class size will vary depending on the course. It will be held in person or online.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Coaching Class VI to X</title>
-      <link>http://localhost:53177/services/coaching-school-classes/</link>
+      <link>http://localhost:53929/services/coaching-school-classes/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
-      <guid>http://localhost:53177/services/coaching-school-classes/</guid>
+      <guid>http://localhost:53929/services/coaching-school-classes/</guid>
       <description>&lt;p&gt;Coaching for Class X to VI, Mathematics and Science subjects typically involves working with students in small groups or individually to help them improve their understanding and performance in these subjects. The teacher will review and explain key concepts, provide additional practice problems and exercises, and offer guidance and strategies for studying and test-taking. The teacher will also identify areas where the student needs additional support and work on building their confidence and skills in those areas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>CUET Exam Preparation</title>
-      <link>http://localhost:53177/services/cuet-exam-preparation/</link>
+      <link>http://localhost:53929/services/cuet-exam-preparation/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
-      <guid>http://localhost:53177/services/cuet-exam-preparation/</guid>
+      <guid>http://localhost:53929/services/cuet-exam-preparation/</guid>
       <description>&lt;p&gt;The National Testing Agency (NTA) has been assigned the task of conducting the Central University Entrance Test (CUET) for Post Graduate (PG) programmes for 2022. Central University Entrance Test (CUET), for admission to different programmes of the participating Central Universities, will provide a single window opportunity to the students to seek admission in these participating Universities / Institute(s) across the country.&lt;/p&gt;&#xA;&lt;h1 id=&#34;registration-link&#34;&gt;Registration Link&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://wa.me/918919321064?text=I%20am%20interested%20in%20CUET%20Exam%20Preparation&#34;&gt;Click Here to Reserve your spot&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;who-should-join-this-course&#34;&gt;Who should join this course?&lt;/h1&gt;&#xA;&lt;p&gt;Individuals who are planning to take the Common University Entrance Test (CUET) for admission to undergraduate engineering courses in various universities in India can benefit from joining a CUET exam preparation course. This includes:&lt;/p&gt;</description>
     </item>
   </channel>
