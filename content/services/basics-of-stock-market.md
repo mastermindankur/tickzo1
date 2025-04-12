@@ -1,16 +1,13 @@
 ---
-title: "Basics of Stock Markets"
+title: "Basics of Stock Market"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
-weight: 1
+weight: 5
 ---
+This course is designed to provide a comprehensive introduction to the stock market for beginners. It covers a wide range of topics that will equip students with the knowledge and skills needed to confidently make their first trade in the stock market. The course starts with a basic understanding of the financial market, stock market, primary and secondary market and the reasons why one should trade or invest in the stock market.
 
-Stock Investing for Dummies: A No-Jargon Approach. Are you interested in learning about the stock market but feel overwhelmed by the jargon and complexity? Look no further! Our event "Stock Market 101: Simplifying the Complex for the Everyday Investor" is designed to teach you the basics of the stock market in easy, simple terms.
-
-![Whatsapp](../../images/social/whatsapp-small.svg) [8919321064](https://wa.me/918919321064?text=Hi%20I%20am%20interested%20in%20Basics%20of%20Stock%20Market)
-
-![Basics of Stock Market](../../images/illustrations/basics-of-stock-market.jpg)
+![Basics of Stock Market](../images/illustrations/basics-of-stock-market.jpg)
 
 # Registration Link
 >[Click Here to Reserve your spot](https://wa.me/918919321064?text=Hi%20I%20am%20interested%20in%20Basics%20of%20Stock%20Market)

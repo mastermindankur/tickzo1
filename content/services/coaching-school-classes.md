@@ -3,7 +3,7 @@ title: "Coaching Class VI to X"
 date: 2018-11-28T15:15:26+10:00
 featured: true
 draft: false
-weight: 5
+weight: 8
 ---
 
 Coaching for Class X to VI, Mathematics and Science subjects typically involves working with students in small groups or individually to help them improve their understanding and performance in these subjects. The teacher will review and explain key concepts, provide additional practice problems and exercises, and offer guidance and strategies for studying and test-taking. The teacher will also identify areas where the student needs additional support and work on building their confidence and skills in those areas.

@@ -3,7 +3,7 @@ title: "Predictive Astrology"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 draft: false
-weight: 2
+weight: 4
 ---
 “Unlock the Secrets of the Stars: A Comprehensive Course on Predictive Astrology”.
 

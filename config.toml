@@ -1,4 +1,5 @@
-baseURL = "https://tickzo.com/"
+#baseURL = "https://tickzo.com/"
+baseURL = "http://localhost:1313/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
@@ -70,18 +71,18 @@ title = "Tickzo Education Center "
     weight = 2
 
   [[menu.main]]
-    name = "Enroll for 2023"
-    url = "/student-enrollment/"
+    name = "Quantum Computing"
+    url = "/services/quantum-computing-101/"
     weight = 3
 
   [[menu.main]]
-    name = "We are Hiring"
-    url = "/we-are-hiring/"
+    name = "Generative AI"
+    url = "/services/generative-ai-llms/"
     weight = 4
 
   [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
+    name = "Enroll for 2025"
+    url = "/student-enrollment/"
     weight = 5
 
   [[menu.main]]
