@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:53929/services/quantum-computing-101/</loc>
+    <loc>http://localhost:1313/services/quantum-computing-101/</loc>
     <lastmod>2025-04-12T12:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:53929/team/peter-van-eijk/</loc>
+    <loc>http://localhost:1313/team/peter-van-eijk/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/student-enrollment/</loc>
+    <loc>http://localhost:1313/student-enrollment/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/privacy-policy/</loc>
+    <loc>http://localhost:1313/privacy-policy/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/service-agreement/</loc>
+    <loc>http://localhost:1313/service-agreement/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/we-are-hiring/</loc>
+    <loc>http://localhost:1313/we-are-hiring/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/services/generative-ai-llms/</loc>
+    <loc>http://localhost:1313/services/generative-ai-llms/</loc>
     <lastmod>2025-04-12T12:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:53929/team/sage-kirk/</loc>
+    <loc>http://localhost:1313/team/sage-kirk/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/team/mike-vance/</loc>
+    <loc>http://localhost:1313/team/mike-vance/</loc>
     <lastmod>2018-12-20T13:44:30+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/team/robert-johnson/</loc>
+    <loc>http://localhost:1313/team/robert-johnson/</loc>
     <lastmod>2018-12-20T13:44:23+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/services/design-thinking/</loc>
+    <loc>http://localhost:1313/services/design-thinking/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/team/tamara-ells/</loc>
+    <loc>http://localhost:1313/team/tamara-ells/</loc>
     <lastmod>2018-12-20T13:44:55+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/services/predictive-astrology/</loc>
+    <loc>http://localhost:1313/services/predictive-astrology/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/team/susan-shelton/</loc>
+    <loc>http://localhost:1313/team/susan-shelton/</loc>
     <lastmod>2018-12-20T13:45:06+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/services/basics-of-stock-market/</loc>
+    <loc>http://localhost:1313/services/basics-of-stock-market/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/services/spanish-language/</loc>
+    <loc>http://localhost:1313/services/spanish-language/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/services/coaching-school-classes/</loc>
+    <loc>http://localhost:1313/services/coaching-school-classes/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/services/cuet-exam-preparation/</loc>
+    <loc>http://localhost:1313/services/cuet-exam-preparation/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-12T12:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:53929/services/</loc>
+    <loc>http://localhost:1313/services/</loc>
     <lastmod>2025-04-12T12:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:53929/team/</loc>
+    <loc>http://localhost:1313/team/</loc>
     <lastmod>2018-12-20T13:45:06+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:53929/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:53929/404/</loc>
+    <loc>http://localhost:1313/404/</loc>
   </url><url>
-    <loc>http://localhost:53929/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
