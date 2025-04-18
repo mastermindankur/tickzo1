@@ -31,13 +31,20 @@ By the end of the course, you'll be equipped with enough knowledge to start buil
 The course will be held over **5 weeks**, with a total of **10 live sessions**. Each class will be **1 hour long**, with time for Q&A and hands-on practice using simulators.
 
 # Fees:  
-### ~~14,999 INR~~ **9,999 INR**  
-Early bird offer valid till **May 1, 2025**
+### ~~4,999 INR~~ **999 INR**  
+Early bird offer valid till **May, 2025**
+
+# Payment Link:
+>[Payment Link](https://rzp.io/rzp/ttHU8hjY)
 
 # Class Timings:  
 Classes will be scheduled in the evenings and on weekends for maximum flexibility. Each session will be 1 hour long.
 
 # Class Location:  
+Online 
+
+OR
+
 Nanakramguda  
 Financial District  
 Hyderabad, Telangana 500032  
