@@ -1,3 +1,11 @@
+<!-- Hugo: Open Graph Tags for WhatsApp Preview -->
+{{ if .IsPage }}
+<meta property="og:title" content="Quantum Computing: Zero to Hero Workshop" />
+<meta property="og:description" content="Join our 2-hour hands-on online workshop and go from basics to building your first quantum circuit in Python!" />
+<meta property="og:image" content="https://tickzo.com/images/illustrations/quantum-computing-101.jpg" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:type" content="website" />
+{{ end }}
 ---
 title: "Quantum Computing 101"
 date: 2025-04-12T12:00:00+05:30
@@ -28,7 +36,7 @@ By the end of the course, you'll be equipped with enough knowledge to start buil
 6) Anyone who has heard of quantum computing but never really understood it.
 
 # Duration of the Course:  
-The course will be held over **5 weeks**, with a total of **10 live sessions**. Each class will be **1 hour long**, with time for Q&A and hands-on practice using simulators.
+This is a **2-hour live online workshop** designed to take you from the absolute basics to hands-on experience with quantum computing tools. The session will include theory, demonstrations, and practical examples, with time for Q&A at the end.
 
 # Fees:  
 ### ~~4,999 INR~~ **999 INR**  
