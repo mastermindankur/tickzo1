@@ -5,7 +5,7 @@ draft: false
 featured: true
 weight: 1
 description: "Join our 2-hour hands-on online workshop and go from basics to building your first quantum circuit in Python!"
-og_image: "/images/illustrations/quantum-computing-101.jpg"
+og_image: "../images/illustrations/quantum-computing-101.jpg"
 ---
 This beginner-friendly course is designed to introduce you to the fascinating world of quantum computing — a paradigm shift in computation that leverages the principles of quantum mechanics. You’ll gain a foundational understanding of how quantum computers work, the math behind them, and their real-world applications.
 

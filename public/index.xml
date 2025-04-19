@@ -9,6 +9,13 @@
     <lastBuildDate>Sat, 12 Apr 2025 12:00:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Quantum Computing 101</title>
+      <link>http://localhost:1313/services/quantum-computing-101/</link>
+      <pubDate>Sat, 12 Apr 2025 12:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/services/quantum-computing-101/</guid>
+      <description>&lt;p&gt;This beginner-friendly course is designed to introduce you to the fascinating world of quantum computing — a paradigm shift in computation that leverages the principles of quantum mechanics. You’ll gain a foundational understanding of how quantum computers work, the math behind them, and their real-world applications.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/illustrations/quantum-computing-101.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Quantum Computing 101&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h1 id=&#34;registration-link&#34;&gt;Registration Link&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://wa.me/918919321064?text=Hi%20I%20am%20interested%20in%20Quantum%20Computing%20101&#34;&gt;Click Here to Reserve your spot&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;This beginner-friendly course is designed to introduce you to the fascinating world of quantum computing — a paradigm shift in computation that leverages the principles of quantum mechanics. You’ll gain a foundational understanding of how quantum computers work, the math behind them, and their real-world applications.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>SK Khera</title>
       <link>http://localhost:1313/team/peter-van-eijk/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
@@ -140,13 +147,6 @@
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/social/whatsapp-small.svg&#34; alt=&#34;Whatsapp&#34;&gt; &lt;a href=&#34;https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad&#34;&gt;8919321064&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Work Timings, We are open all 6 days a week.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Day&lt;/th&gt;&#xA;          &lt;th&gt;Opening Hours&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Monday&lt;/td&gt;&#xA;          &lt;td&gt;3:00pm - 9:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Tuesday&lt;/td&gt;&#xA;          &lt;td&gt;3:00pm - 9:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Wednesday&lt;/td&gt;&#xA;          &lt;td&gt;3:00pm - 9:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Thursday&lt;/td&gt;&#xA;          &lt;td&gt;3:00pm - 9:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Friday&lt;/td&gt;&#xA;          &lt;td&gt;3:00pm - 9:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Saturday&lt;/td&gt;&#xA;          &lt;td&gt;3:00pm - 9:00pm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Sunday&lt;/td&gt;&#xA;          &lt;td&gt;Closed&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/social/whatsapp-small.svg&#34; alt=&#34;Whatsapp&#34;&gt; &lt;a href=&#34;https://wa.me/918919321064?text=I%20am%20interested%20in%20Tickzo%20Education%20Center%20Hyderabad&#34;&gt;8919321064&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/services/quantum-computing-101/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/quantum-computing-101/</guid>
-      <description>&lt;!-- Hugo: Open Graph Tags for WhatsApp Preview --&gt;&#xA;&lt;p&gt;{{ if .IsPage }}&lt;/p&gt;&#xA;&lt;meta property=&#34;og:title&#34; content=&#34;Quantum Computing: Zero to Hero Workshop&#34; /&gt;&#xA;&lt;meta property=&#34;og:description&#34; content=&#34;Join our 2-hour hands-on online workshop and go from basics to building your first quantum circuit in Python!&#34; /&gt;&#xA;&lt;meta property=&#34;og:image&#34; content=&#34;https://tickzo.com/images/illustrations/quantum-computing-101.jpg&#34; /&gt;&#xA;&lt;meta property=&#34;og:url&#34; content=&#34;{{ .Permalink }}&#34; /&gt;&#xA;&lt;meta property=&#34;og:type&#34; content=&#34;website&#34; /&gt;&#xA;{{ end }}&#xA;---&#xA;title: &#34;Quantum Computing 101&#34;&#xA;date: 2025-04-12T12:00:00+05:30&#xA;draft: false&#xA;featured: true&#xA;weight: 1&#xA;---&#xA;This beginner-friendly course is designed to introduce you to the fascinating world of quantum computing — a paradigm shift in computation that leverages the principles of quantum mechanics. You’ll gain a foundational understanding of how quantum computers work, the math behind them, and their real-world applications.&#xA;&lt;p&gt;&lt;img src=&#34;../../images/illustrations/quantum-computing-101.jpg&#34; alt=&#34;Quantum Computing 101&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
