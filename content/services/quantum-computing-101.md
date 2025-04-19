@@ -1,21 +1,15 @@
-<!-- Hugo: Open Graph Tags for WhatsApp Preview -->
-{{ if .IsPage }}
-<meta property="og:title" content="Quantum Computing: Zero to Hero Workshop" />
-<meta property="og:description" content="Join our 2-hour hands-on online workshop and go from basics to building your first quantum circuit in Python!" />
-<meta property="og:image" content="https://tickzo.com/images/illustrations/quantum-computing-101.jpg" />
-<meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:type" content="website" />
-{{ end }}
 ---
 title: "Quantum Computing 101"
 date: 2025-04-12T12:00:00+05:30
 draft: false
 featured: true
 weight: 1
+description: "Join our 2-hour hands-on online workshop and go from basics to building your first quantum circuit in Python!"
+og_image: "/images/illustrations/quantum-computing-101.jpg"
 ---
 This beginner-friendly course is designed to introduce you to the fascinating world of quantum computing — a paradigm shift in computation that leverages the principles of quantum mechanics. You’ll gain a foundational understanding of how quantum computers work, the math behind them, and their real-world applications.
 
-![Quantum Computing 101](../../images/illustrations/quantum-computing-101.jpg)
+{{< figure src="/images/illustrations/quantum-computing-101.jpg" title="Quantum Computing 101" >}}
 
 # Registration Link  
 >[Click Here to Reserve your spot](https://wa.me/918919321064?text=Hi%20I%20am%20interested%20in%20Quantum%20Computing%20101)
